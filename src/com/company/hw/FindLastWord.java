@@ -1,10 +1,11 @@
-package com.company;
+package com.company.hw;
 
 import java.util.Scanner;
 import java.util.concurrent.RunnableFuture;
 
 /**
  * Created by zj on 2017/3/10 0010.
+ * 最后一个单词的长度
  */
 public class FindLastWord {
     public static void main(String[] args){
